@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-@include('include.head')
+  @include('include.head')
 </head>
 
 <body data-spy="scroll" data-target="#navbar-example">
@@ -9,7 +9,7 @@
   <div id="preloader"></div>
 
   @include('include.header')
-  <!-- Start Jaringan Prasarana Area -->
+  <!-- Start Prioritas area -->
     <div id="peta2" class="contact-area">
         <div class="contact-inner area-padding">
             <div class="contact-overly"></div>
@@ -17,39 +17,32 @@
                 <div class="row">
                     <div class="col-md-12 col-sm-12 col-xs-12">
                         <div class="section-headline text-center area-padding-maps-2">
-                            <h2>Jaringan Prasarana</h2>
+                            <h2>Sub BWP Yang Diprioritaskan Penanganannya</h2>
                         </div>
-                        <iframe src="http://178.128.219.3/sitr/application/Simtaru_blitar" height="550px" width="100%"></iframe>
                     </div>
                 </div>
-
-                <div class="row">
-                    <!-- Start Google Map -->
-                    <div class="col-md-6 col-sm-6 col-xs-12">
-                        <!-- Start Map -->
-                        <!-- Uncomment below if you wan to use dynamic maps -->
-                        <!--<div id="google-map" data-latitude="40.713732" data-longitude="-74.0092704"></div>-->
-                        <img src="https://maps.googleapis.com/maps/api/staticmap?center=Brooklyn+Bridge,New+York,NY&zoom=13&size=600x350&maptype=roadmap&markers=color:red%7Clabel:S%7C40.702147,-74.015794"
-                            alt="">
-                        <!-- End Map -->
+          <div class="awesome-project-content">
+            <!-- single-awesome-project start -->
+            <div class="col-md-12 col-sm-12 col-xs-12 design development">
+              <div class="single-awesome-project">
+                <div class="awesome-img">
+                  <a href="#"><img src="{{ url('content/muatan_rdtr')}}/prioritas.png" alt="" /></a>
+                  <div class="add-actions text-center">
+                    <div class="project-dec">
+                      <a class="venobox" data-gall="myGallery" href="{{ url('content/muatan_rdtr')}}/prioritas.png">
+                        <h4>Sub BWP Yang Diprioritaskan Penanganannya</h4>
+                      </a>
                     </div>
-                    <!-- End Google Map -->
-                    <!-- Start Google Map -->
-                    <div class="col-md-6 col-sm-6 col-xs-12">
-                        <!-- Start Map -->
-                        <!-- Uncomment below if you wan to use dynamic maps -->
-                        <!--<div id="google-map" data-latitude="40.713732" data-longitude="-74.0092704"></div>-->
-                        <img src="https://maps.googleapis.com/maps/api/staticmap?center=Brooklyn+Bridge,New+York,NY&zoom=13&size=600x350&maptype=roadmap&markers=color:red%7Clabel:S%7C40.702147,-74.015794"
-                            alt="">
-                        <!-- End Map -->
-                    </div>
-                    <!-- End Google Map -->
+                  </div>
                 </div>
-
+              </div>
+            </div>
+            <!-- single-awesome-project end -->
+          </div>
             </div>
         </div>
     </div>
-  <!-- End Jaringan Prasarana Area -->
+  <!-- End Prioritas area -->
   @include('include.foot')
 </body>
 
