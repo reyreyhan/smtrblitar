@@ -27,9 +27,9 @@
               <div class="footer-head">
                 <h4>quick links</h4>
                 <div class="footer-contacts">
-                  <img src="{{url('/assets')}}/img/footer/link1.png" width="250" height="100" alt="" title=""><br>
-                  <img src="{{url('/assets')}}/img/footer/link2.png" width="250" height="100" alt="" title=""><br>
-                  <img src="{{url('/assets/')}}/img/footer/link3.png" width="250" height="100" alt="" title="">
+                  <a href="http://bappeda.blitarkota.go.id/"><img src="{{url('/assets')}}/img/footer/Qlink.png" width="250" height="100" alt="" title=""></a><hr>
+                  <a href="http://blitarkota.go.id/"><img src="{{url('/assets')}}/img/footer/qlink2.png" width="250" height="100" alt="" title=""><hr>
+                  <a href="http://dinaspupr.blitarkota.go.id/"><img src="{{url('/assets/')}}/img/footer/qlink3.png" width="250" height="100" alt="" title="">
                 </div>
               </div>
             </div>
