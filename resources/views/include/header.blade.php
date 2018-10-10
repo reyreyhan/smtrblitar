@@ -16,14 +16,18 @@
 										<span class="icon-bar"></span>
 									</button>
                 <!-- Brand -->
-                <a class="navbar-brand page-scroll sticky-logo" href="index.html">
-                  <!--<h1><span>e</span>Business</h1>-->
+                <a class="navbar-brand page-scroll sticky-logo" href="#">
                   <!-- Uncomment below if you prefer to use an image logo -->
-                  <!-- <img src="img/logo.png" alt="" title=""> -->
+                  <img src="{{url('/content')}}/logo.png" width="35" height="35" alt="" title="">
 								</a>
               </div>
               <!-- Collect the nav links, forms, and other content for toggling -->
               <div class="collapse navbar-collapse main-menu bs-example-navbar-collapse-1" id="navbar-example">
+                <ul class="nav navbar-nav navbar-left">
+                  <li>
+                    <a class=""><b>DINAS PU CIPTA KARYA DAN TATA RUANG</b></a>
+                  </li>
+                </ul>
                 <ul class="nav navbar-nav navbar-right">
                   <li class="active">
                     <a class="page-scroll" href="{{url('/')}}">Beranda</a>

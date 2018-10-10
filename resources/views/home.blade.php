@@ -86,68 +86,61 @@
         </div>
       </div>
       <div class="row">
-        <!-- single-well start-->
-        <div class="col-md-6 col-sm-6 col-xs-12">
-          <div class="well-left">
-            <div class="single-well">
-              <a href="#">
-								  <img src="{{ url('assets')}}/img/blitar.png" alt="">
-								</a>
+        <p>
+          <!-- Start Testimonials -->
+        <div class="testimonials-area">
+          <div class="testi-inner area-padding">
+            <div class="testi-overly"></div>
+              <div class="container ">
+                <div class="row">
+                  <div class="col-md-12 col-sm-12 col-xs-12">
+                    <!-- Start testimonials Start -->
+                    <div class="testimonial-content text-center">
+                      <a class="quate" href="#"><i class="fa fa-quote-right"></i></a>
+                      <!-- start testimonial carousel -->
+                      <div class="testimonial-carousel">
+                        <div class="single-testi">
+                          <div class="testi-text">
+                            <p>
+                              Kota Blitar memiliki peran yang cukup strategis di Provinsi Jawa Timur dalam kedudukannya <br> sebagai pusat kegiatan dari Satuan
+                              Wilayah Pembangunan yaitu Wilayah Pembangunan (WP) Blitar <br> dengan Kabupaten Blitar sebagai hinterlandnya agar berkembang secara
+                              signifikan.<br> Adapaun tujuan penataan ruang Kota Blitar sebagai Kota Wisata kebangsaan <br> yang didukung oleh perdagangan dan jasa.
+                            </p>
+                          </div>
+                        </div>
+                        <!-- End single item -->
+                        <div class="single-testi">
+                          <div class="testi-text">
+                            <p>
+                             Penataan Ruang di Kota Blitar dilaksanakan berdasarkan<br>Peraturan Daerah Nomor 12 Tahun 2011 <br> tentang Rencana Tata Ruang Wilayah Kota Blitar Tahun 2011 sd 2030 <br> yang kemudian ditindak lanjuti dengan rencana rinci yaitu Rencana Detail Tata Ruang (RDTR)
+                            </p>
+                          </div>
+                        </div>
+                        <!-- End single item -->
+                        <div class="single-testi">
+                          <div class="testi-text">
+                            <p>
+                               RDTR ditetapkan berdasarkan Peraturan Daerah Kota Blitar<br> Nomor 10 Tahun 2017 tentang Rencana Detail Tata Ruang (RDTR) <br> Dalam Perda tersebut 4 BWP yang ada di Kota Blitar <br>diatur menjadi 1 (satu) perda termasuk di dalamnya Peraturan Zonasinya.
+                            </p>
+                          </div>
+                        </div>
+                        <!-- End single item -->
+                        <div class="single-testi">
+                          <div class="testi-text">
+                            <p>
+                              Sistem Informasi Tata Ruang RDTR Kota Blitar <br>merupakan sebuah sarana komunikasi dan informasi yang menyajikan data dan informasi          yang tereferensi secara spasial <br> yang dikembangkan pada aplikasi berbasis Web yang harus dikelola dengan baik menyajikan        pilihan-pilihan atas data dan informasi untuk kebutuhan penataan ruang sehingga ke depan nantinya masyarakat akan dapat secara lebih transparan melihat <br> dan juga terlibat (berperan serta) dalam proses pembangunan di Kota Blitar.
+                            </p>
+                          </div>
+                        </div>
+                        <!-- End single item -->
+                      </div>
+                    </div>
+                    <!-- End testimonials end -->
+                  </div>
+                </div>
+              </div>
             </div>
-          </div>
-        </div>
-        <!-- single-well end-->
-        <div class="col-md-6 col-sm-6 col-xs-12">
-          <div class="well-middle">
-            <div class="single-well">
-              <a href="#">
-                <h4 class="sec-head">Kota Blitar</h4>
-              </a>
-              <p align="justify">
-                 Kota Blitar memiliki peran yang cukup strategis di Provinsi Jawa Timur dalam kedudukannya sebagai pusat kegiatan dari Satuan
-                Wilayah Pembangunan yaitu Wilayah Pembangunan (WP) Blitar dengan Kabupaten Blitar sebagai hinterlandnya agar berkembang secara
-                signifikan. Adapaun tujuan penataan ruang Kota Blitar sebagai Kota Wisata kebangsaan yang didukung oleh perdagangan dan jasa.
-              </p>
-              <p align="justify">
-                Perkembangan sektor-sekor tersebut berpengaruh pada perubahan pola dan strutur pemafaatan ruang, sehingga berdampak pada
-                pengendalian ruangnya. Sehubungan dengan hal tersebut diperlukan suatu arahan dan pedoman dalam pengendalian pemanfaatan
-                ruang dalam bentuk Penataan Ruang.
-              </p>
-              <p align="justify">
-                 Penataan Ruang di Kota Blitar dilaksanakan berdasarkan Peraturan Daerah Nomor 12 Tahun 2011 tentang Rencana Tata Ruang Wilayah
-                Kota Blitar Tahun 2011 sd 2030 yang kemudian ditindak lanjuti dengan rencana rinci yaitu Rencana Detail Tata Ruang (RDTR)
-              </p>
-              <p align="justify">
-                 RDTR ditetapkan berdasarkan Peraturan Daerah Kota Blitar Nomor 10 Tahun 2017 tentang Rencana Detail Tata Ruang (RDTR) Dalam
-                Perda tersebut 4 BWP yang ada di Kota Blitar diatur menjadi 1 (satu) perda termasuk di dalamnya Peraturan Zonasinya.
-              </p>
-              <p align="justify">
-                 Sumberdaya alam dan aset manusia merupakan hal dinamis, maka informasi tentang status terakhir potensi dan keberadaannya
-                menjadi sangat penting dalam perencanaan, pemanfaatan maupun pengendalian kebijakan. Untuk itu keberadaan infrastruktur komunikasi
-                dan informasi secara terintegrasi, akan sangat membantu efektifitas dan efisiensi kebijakan dimaksud.
-              </p>
-              <p align="justify">
-                 Sebagaimana amanat Peraturan Daerah Kota Blitar Nomor 12 Tahun 2011 tentang Rencana Tata Ruang Wilayah Kota Blitar Tahun
-                2011 – 2030 bahwa dalam rangka meningkatkan peran masyarakat, Pemerintah Kota Blitar membangun sistem informasi dan dokumentasi
-                penataan ruang yang dapat diakses dengan mudah oleh masyarakat.Untuk itu diperlukan suatu strategi dan perencanaan yang cepat,
-                tepat dan akurat terhadap prasarana sistim informasi tata ruang RDTR Kota Blitar.
-              </p>
-              <p align="justify">
-                 Sistem Informasi Tata Ruang RDTR Kota Blitarmerupakan sebuah sarana komunikasi dan informasi yang menyajikan data dan informasi
-                yang tereferensi secara spasial yang dikembangkan pada aplikasi berbasis Web yang harus dikelola dengan baik dengan menyajikan
-                pilihan-pilihan atas data dan informasi untuk kebutuhan penataan ruang sehingga ke depan nantinya masyarakat akan dapat secara
-                lebih transparan melihat dan juga terlibat (berperan serta) dalam proses pembangunan di Kota Blitar.
-              </p>
-              <p align="justify">
-                 Salah satu cara untuk menjawab kebutuhan di atas adalah dengan menyajikan informasi mengenai RDTR Kota Blitar. Peta yang
-                telah terisi berbagai informasi melalui suatu sistem komputer tersebut sering disebut dengan Sistem Informasi Geografis (SIG).
-                Dengan tersedianya data tersebut proses pengambilan keputusan seperti pemanfaatan dan pengembangan, pemeliharaan maupun pengamanan
-                dapat dilakukan secara cepat, tepat dan akurat.
-              </p>
-            </div>
-          </div>
-        </div>
-        <!-- End col-->
+          </div>       
       </div>
     </div>
   </div>

@@ -3,7 +3,17 @@
     <div id="about" class="footer-area">
       <div class="container">
         <div class="row">
-          <div class="col-md-6 col-sm-12 col-xs-12">
+          <!-- end single footer -->
+          <div class="col-md-2 col-sm-12 col-xs-12">
+            <div class="footer-content">
+              <div class="footer-head">
+                <div class="footer-contacts">
+                  <img src="{{url('/content')}}/logo.png" width="100" height="100" alt="" title="">
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-12 col-xs-12">
             <div class="footer-content">
               <div class="footer-head">
                 <h4>Dinas Pekerjaan Umum Blitar</h4>
@@ -12,7 +22,20 @@
             </div>
           </div>
           <!-- end single footer -->
-          <div class="col-md-6 col-sm-12 col-xs-12">
+          <div class="col-md-3 col-sm-12 col-xs-12">
+            <div class="footer-content">
+              <div class="footer-head">
+                <h4>quick links</h4>
+                <div class="footer-contacts">
+                  <img src="{{url('/assets')}}/img/footer/link1.png" width="250" height="100" alt="" title=""><br>
+                  <img src="{{url('/assets')}}/img/footer/link2.png" width="250" height="100" alt="" title=""><br>
+                  <img src="{{url('/assets/')}}/img/footer/link3.png" width="250" height="100" alt="" title="">
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- end single footer -->
+          <div class="col-md-3 col-sm-12 col-xs-12">
             <div class="footer-content">
               <div class="footer-head">
                 <h4>information</h4>

@@ -20,16 +20,70 @@
         <div class="row">
           <div class="col-md-12 col-sm-12 col-xs-12">
             <div class="section-headline text-center">
-              <h2>Perda Kota Blitar</h2>
+              <h2>BWP III</h2>
             </div>
           </div>
         </div>
         <div class="row">
+          <div class="awesome-project-content">
+            <!-- single-awesome-project start -->
+            <div class="col-md-6 col-sm-12 col-xs-12 design development">
+              <div class="single-awesome-project">
+                <div class="awesome-img">
+                  <a href="#"><img src="{{ url('content/peraturan_zonasi/bwp3')}}/8.1_PETA_RENCANA_ZONASI_BWP_3_SBWP_I_BLOK_1.png" alt="" /></a>
+                  <div class="add-actions text-center">
+                    <div class="project-dec">
+                      <a class="venobox" data-gall="myGallery" href="{{ url('content/peraturan_zonasi/bwp3')}}/8.1_PETA_RENCANA_ZONASI_BWP_3_SBWP_I_BLOK_1.png">
+                        <h4>Zonasi BWP III</h4>
+                        <span>Sub BWP I Blok I</span>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <!-- single-awesome-project end -->
+            <!-- single-awesome-project start -->
+            <div class="col-md-6 col-sm-12 col-xs-12 design development">
+              <div class="single-awesome-project">
+                <div class="awesome-img">
+                  <a href="#"><img src="{{ url('content/peraturan_zonasi/bwp3')}}/8.2_PETA_RENCANA ZONASI_BWP 3_SBWP_II_BLOK_1.png" alt="" /></a>
+                  <div class="add-actions text-center">
+                    <div class="project-dec">
+                      <a class="venobox" data-gall="myGallery" href="{{ url('content/peraturan_zonasi/bwp3')}}/8.2_PETA_RENCANA ZONASI_BWP 3_SBWP_II_BLOK_1.png">
+                        <h4>Zonasi BWP III</h4>
+                        <span>Sub BWP II Blok I</span>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <!-- single-awesome-project end -->
+            <!-- single-awesome-project start -->
+            <div class="col-md-6 col-sm-12 col-xs-12 design development">
+              <div class="single-awesome-project">
+                <div class="awesome-img">
+                  <a href="#"><img src="{{ url('content/peraturan_zonasi/bwp3')}}/8.3_PETA_RENCANA_ZONASI_BWP_3_SBWP II_BLOK_2.png" alt="" /></a>
+                  <div class="add-actions text-center">
+                    <div class="project-dec">
+                      <a class="venobox" data-gall="myGallery" href="{{ url('content/peraturan_zonasi/bwp3')}}/8.3_PETA_RENCANA_ZONASI_BWP_3_SBWP II_BLOK_2.png">
+                        <h4>Zonasi BWP III</h4>
+                        <span>Sub BWP II Blok II</span>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <!-- single-awesome-project end -->
+          </div>
+          <br>
           <div class="col-md-12 col-sm-12 col-xs-12">
             <div class="well-middle">
               <div class="single-well">
                 <a href="#">
-                  <h4 class="sec-head">Tabel ITBX BWP III</h4>
+                  <center><h1>Tabel ITBX BWP III</h1></center>
                 </a>
                 <p align="justify">
                   <a href="{{url('')}}/content/itbx/itbx4.pdf">Download Tabel ITBX BWP III RDTR Kota Blitar</a>
