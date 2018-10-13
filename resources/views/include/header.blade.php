@@ -44,24 +44,16 @@
                   <li>
                     <a class="page-scroll" href="{{url('/berita')}}">Berita</a>
                   </li>
-                  <li class="dropdown"><a id="dLabel" role="button" data-toggle="dropdown" data-target="#" href="/page.html">Muatan RDTR <span class="caret"></span></a>
+                  <li class="dropdown"><a id="dLabel" role="button" data-toggle="dropdown" data-target="" href="l">Muatan RDTR <span class="caret"></span></a>
     		            <ul class="dropdown-menu multi-level" role="menu" aria-labelledby="dropdownMenu">
-                        <li class="dropdown-submenu">
-                          <a tabindex="-1" href="#">Tujuan BWP</a>
-                         <ul class="dropdown-menu">
-                          <li><a tabindex="-1" href="{{url('/bwp1')}}">BWP 1</a></li>
-                          <li><a href="{{url('/bwp2')}}">BWP 2</a></li>
-                          <li><a href="{{url('/bwp3')}}">BWP 3</a></li>
-                          <li><a href="{{url('/bwp4')}}">BWP 4</a></li>
-                         </ul>
-                        </li>  
-                       <li><a href="{{url('/rdtr/pola-ruang')}}">Pola Ruang</a></li>
-                       <li><a href="{{url('/rdtr/jaringan-prasarana')}}">Jaringan Prasarana</a></li>
-                       <li><a href="{{url('/rdtr/prioritas')}}">Prioritas</a></li>
+                        <li><a href="{{url('/bwp1')}}">BWP 1</a></li><br>
+                        <li><a href="{{url('/bwp2')}}">BWP 2</a></li><br>
+                        <li><a href="{{url('/bwp3')}}">BWP 3</a></li><br>
+                        <li><a href="{{url('/bwp4')}}">BWP 4</a></li>
                     </ul>
                   </li>               
                   <li>
-                    <a class="page-scroll" href="#about">About</a>
+                    <a class="page-scroll" href="">About</a>
                   </li>
 
                 </ul>

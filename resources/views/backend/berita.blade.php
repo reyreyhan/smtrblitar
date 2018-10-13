@@ -12,6 +12,9 @@
   <div class="content-wrapper">
     <div class="container-fluid">
       <!-- Example DataTables Card-->
+      <a href="{{url('admin/create')}}" class="btn btn-success" role="button">Input Berita</a>
+      <br>
+      <br>
       <div class="card mb-3">
         <div class="card-header">
           <i class="fa fa-table"></i> All Berita</div>
@@ -33,8 +36,8 @@
                   <td>{!!\Illuminate\Support\Str::words($u->isi, 5)!!}</td>
                   <td>{{$u->created_at}}</td>
                   <td>
-                    <a href="{{url('admin/edit')}}/{{$u->id}}">Edit</a> || 
-                    <a href="{{url('admin/delete')}}/{{$u->id}}">Delete</a>
+                    <a href="{{url('admin/edit')}}/{{$u->id}}" class="btn btn-primary" role="button">Edit</a>
+                    <a href="{{url('admin/delete')}}/{{$u->id}}" class="btn btn-danger" role="button">Delete</a>
                   </td>
                 </tr>
                 @endforeach
