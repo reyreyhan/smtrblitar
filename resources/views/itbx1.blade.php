@@ -103,9 +103,9 @@
                   <center><h1>Tabel ITBX BWP I</h1></center>
                 </a>
                 <p align="justify">
-                  <a href="{{url('')}}/content/itbx/itbx4.pdf">Download Tabel ITBX BWP I RDTR Kota Blitar</a>
+                  <a href="{{url('')}}/content/itbx/itbx1.pdf">Download Tabel ITBX BWP I RDTR Kota Blitar</a>
                 </p>
-                <embed src="{{url('')}}/content/itbx/itbx4.pdf" width="800" height="600" type='application/pdf'>
+                <embed src="{{url('')}}/content/itbx/itbx1.pdf" width="800" height="600" type='application/pdf'>
               </div>
             </div>
           </div>
