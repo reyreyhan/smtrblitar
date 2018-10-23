@@ -88,7 +88,11 @@
                 <p align="justify">
                   <a href="{{url('')}}/content/itbx/itbx3.pdf">Download Tabel ITBX BWP III RDTR Kota Blitar</a>
                 </p>
-                <embed src="{{url('')}}/content/itbx/itbx3.pdf" width="800" height="600" type='application/pdf'>
+                <div class="embed-responsive embed-responsive-16by9">
+                  <iframe class="embed-responsive-item"
+                      src="{{url('')}}/content/itbx/itbx3.pdf" allowfullscreen>
+                  </iframe>
+                </div>
               </div>
             </div>
           </div>
