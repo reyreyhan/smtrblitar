@@ -16,8 +16,8 @@
           <div class="col-md-4 col-sm-12 col-xs-12">
             <div class="footer-content">
               <div class="footer-head">
-                <h4>Dinas Pekerjaan Umum Blitar</h4>
-                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis.</p>
+                <h4>SIMTARU (Sistem Informasi Tata Ruang) Blitar</h4>
+                <p>Sistem informasi data dan peta yang menyajikan informasi mengenai RTDR Kota Blitar.</p>
               </div>
             </div>
           </div>
