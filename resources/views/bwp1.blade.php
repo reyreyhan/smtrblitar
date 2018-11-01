@@ -56,10 +56,10 @@
             <div class="col-md-12 col-sm-12 col-xs-12 design development">
               <div class="single-awesome-project">
                 <div class="awesome-img">
-                  <a href="#"><img src="{{ url('content/muatan_rdtr')}}/pola_ruang.png" alt="" /></a>
+                  <a href="#"><img src="{{ url('content/bwp/BWP 1')}}/4. PETA RENCANA POLA RUANG_BWP 1.png" alt="" /></a>
                   <div class="add-actions text-center">
                     <div class="project-dec">
-                      <a class="venobox" data-gall="myGallery" href="{{ url('content/muatan_rdtr')}}/pola_ruang.png">
+                      <a class="venobox" data-gall="myGallery" href="{{ url('content/bwp/BWP 1')}}/4. PETA RENCANA POLA RUANG_BWP 1.png">
                         <h4>Rencana Pola Ruang</h4>
                       </a>
                     </div>
