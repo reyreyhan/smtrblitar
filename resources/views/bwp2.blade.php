@@ -20,7 +20,7 @@
         <div class="row">
           <div class="col-md-12 col-sm-12 col-xs-12">
             <div class="section-headline text-center">
-              <h2>Tujuan BWP 2</h2>
+              <h2>Tujuan BWP II</h2>
             </div>
           </div>
         </div>
@@ -56,10 +56,10 @@
             <div class="col-md-12 col-sm-12 col-xs-12 design development">
               <div class="single-awesome-project">
                 <div class="awesome-img">
-                  <a href="#"><img src="{{ url('content/muatan_rdtr')}}/pola_ruang.png" alt="" /></a>
+                  <a href="#"><img src="{{ url('content/bwp/BWP 2')}}/4. PETA RENCANA POLA RUANG_BWP 2.png" alt="" /></a>
                   <div class="add-actions text-center">
                     <div class="project-dec">
-                      <a class="venobox" data-gall="myGallery" href="{{ url('content/muatan_rdtr')}}/pola_ruang.png">
+                      <a class="venobox" data-gall="myGallery" href="{{ url('content/bwp/BWP 2')}}/4. PETA RENCANA POLA RUANG_BWP 2.png">
                         <h4>Rencana Pola Ruang</h4>
                       </a>
                     </div>
@@ -126,11 +126,11 @@
             <div class="col-md-12 col-sm-12 col-xs-12 design development">
               <div class="single-awesome-project">
                 <div class="awesome-img">
-                  <a href="#"><img src="{{ url('content/muatan_rdtr')}}/pola_ruang.png" alt="" /></a>
+                  <a href="#"><img src="{{ url('content/bwp/BWP 2')}}/15. PETA RENCANA PENETAPAN SUB BWP PRIORITAS_BWP 2.png" alt="" /></a>
                   <div class="add-actions text-center">
                     <div class="project-dec">
-                      <a class="venobox" data-gall="myGallery" href="{{ url('content/muatan_rdtr')}}/pola_ruang.png">
-                        <h4>Rencana Pola Ruang</h4>
+                      <a class="venobox" data-gall="myGallery" href="{{ url('content/bwp/BWP 2')}}/15. PETA RENCANA PENETAPAN SUB BWP PRIORITAS_BWP 2.png">
+                        <h4>Prioritas BWP II</h4>
                       </a>
                     </div>
                   </div>
