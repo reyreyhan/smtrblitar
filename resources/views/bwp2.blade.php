@@ -74,7 +74,7 @@
   </div>
   <!-- End Pola Ruang Area -->
 
-  <!-- Start Jarigan Prasarana Area -->
+  <!-- Start Jaringan Prasarana Area -->
   <div id="perda" class="contact-area">
     <div class="contact-inner area-padding">
       <div class="contact-overly"></div>
@@ -82,7 +82,7 @@
         <div class="row">
           <div class="col-md-12 col-sm-12 col-xs-12">
             <div class="section-headline text-center">
-              <h2>Jarigan Prasarana</h2>
+              <h2>Jaringan Prasarana</h2>
             </div>
           </div>
         </div>
@@ -262,7 +262,7 @@
       </div>
     </div>
   </div>
-  <!-- End Jarigan Prasarana Area -->
+  <!-- End Jaringan Prasarana Area -->
 
   <!-- Start Prioritas Area -->
   <div id="perda" class="contact-area">
