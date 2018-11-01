@@ -19,7 +19,8 @@
         </div>
         <div class="modal-body">
           <div class="embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/dXGBDwdokIQ?autoplay=1" allowfullscreen></iframe>
+            <!--<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/dXGBDwdokIQ?autoplay=1" allowfullscreen></iframe>-->
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/dXGBDwdokIQ" allowfullscreen></iframe>
           </div>
         </div>
         <div class="modal-footer">
