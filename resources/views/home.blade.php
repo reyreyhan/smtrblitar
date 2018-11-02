@@ -9,7 +9,16 @@
   <div id="preloader"></div>
   @include('include.header')
 
-  <div id="myModal" class="modal fade" role="dialog">
+  <style>
+    .modal.modal-wide .modal-dialog {
+      width: 90%;
+    }
+    .modal-wide .modal-body {
+      overflow-y: auto;
+    }
+  </style>
+
+  <div id="myModal" class="modal fade modal-wide" role="dialog">
     <div class="modal-dialog">
       <!-- Modal content-->
       <div class="modal-content">
