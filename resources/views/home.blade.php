@@ -24,12 +24,12 @@
       <div class="modal-content">
         <div class="modal-header">
           <button type="button" class="close" data-dismiss="modal">&times;</button>
-          <h4 class="modal-title">Modal Header</h4>
+          <h4 class="modal-title">Visualisasi Simtaru Blitar</h4>
         </div>
         <div class="modal-body">
           <div class="embed-responsive embed-responsive-16by9">
             <!--<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/dXGBDwdokIQ?autoplay=1" allowfullscreen></iframe>-->
-            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/dXGBDwdokIQ" allowfullscreen></iframe>
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/1_buc5YfKQo" allowfullscreen></iframe>
           </div>
         </div>
         <div class="modal-footer">
