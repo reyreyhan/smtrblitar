@@ -58,7 +58,7 @@ class HomeController extends Controller
 
     public function check(Request $r) {
         $data = Login::where('username',$r->username)->where('password', $r->password)->count();
-        if($data > 1) {
+        if($data > 0) {
             $data = Login::where('username',$r->username)->where('password', $r->password)->first();
             $r->session()->put('activeUser', $data);
             return redirect('/admin');
