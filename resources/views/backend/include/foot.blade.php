@@ -39,6 +39,7 @@
     <script src="{{url('backend')}}/js/sb-admin.min.js"></script>
     <!-- Custom scripts for this page-->
     <script src="{{url('backend')}}/js/sb-admin-datatables.min.js"></script>
+    <script src="http://demo.itsolutionstuff.com/plugin/jquery.js"></script>
     
     <script src="https://cloud.tinymce.com/stable/tinymce.min.js"></script>
     <script>tinymce.init({ selector:'textarea' });</script>

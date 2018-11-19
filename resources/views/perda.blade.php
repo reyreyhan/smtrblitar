@@ -31,11 +31,6 @@
                 <a href="#">
                   <h4 class="sec-head">PERATURAN DAERAH KOTA BLITAR</h4>
                 </a>
-                <br>
-                <b>PERATURAN DAERAH KOTA BLITAR NOMOR 10 TAHUN 2017 TENTANG</b><br>
-                <b>RENCANA DETAIL TATA RUANG BAGIAN WILAYAH PERKOTAAN DAN</b><br>
-                <b>PERATURAN ZONASI KOTA BLITAR TAHUN 2017 - 2037</b>
-                <br><br>
                 <p align="justify">
                   <a href="{{url('')}}/content/pdf/PERDA_RDTR_KOTA_BLITAR.pdf">Download Peraturan Daerah Kota Blitar Nomor 10 Tahun 2017</a>
                 </p>

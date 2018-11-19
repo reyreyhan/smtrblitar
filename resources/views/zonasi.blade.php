@@ -25,15 +25,6 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-md-12 col-sm-12 col-xs-12">
-            <h4><b>Peraturan Zonasi Kota Blitar</b></h4>
-            <br>
-            <h6>Tabel ITBX BWP RDTR Kota Blitar</h6>
-            <h6>Klik Read More Untuk Keterangan Lebih Lanjut</h6>
-            <br><br>
-          </div>
-        </div>
-        <div class="row">
           <!-- Start Left Blog -->
           <div class="col-md-3 col-sm-3 col-xs-12">
             <div class="single-blog">
@@ -88,6 +79,17 @@
             <!-- Start single blog -->
           </div>
           <!-- End Left Blog-->
+        </div>
+        <div class="row">
+          <div class="col-md-12 col-sm-12 col-xs-12">
+            <br><br>
+            <h4><b>Peraturan Zonasi Kota Blitar</b></h4>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12 col-sm-12 col-xs-12">
+            <iframe src="{{ url('/zona') }}" height="500" width="100%" frameBorder="0"></iframe>
+          </div>
         </div>
       </div>
     </div>

@@ -95,10 +95,11 @@
             </div>
             <!-- single-awesome-project end -->
           </div>
-          <br>
+          
           <div class="col-md-12 col-sm-12 col-xs-12">
             <div class="well-middle">
               <div class="single-well">
+                <br>
                 <a href="#">
                   <center><h1>Tabel ITBX BWP I</h1></center>
                 </a>
