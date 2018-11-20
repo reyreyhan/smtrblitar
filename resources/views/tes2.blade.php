@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <script src="http://demo.itsolutionstuff.com/plugin/jquery.js"></script>
-    <link rel="stylesheet" href="http://demo.itsolutionstuff.com/plugin/bootstrap-3.min.css">
+    <script src="{{url('dropdown')}}/dropdown.js"></script>
+    <link rel="stylesheet" href="{{url('dropdown')}}/dropdown.min.css">
 </head>
 
 <body>
