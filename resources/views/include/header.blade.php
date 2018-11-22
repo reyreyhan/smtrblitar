@@ -53,7 +53,7 @@
                     </ul>
                   </li>               
                   <li>
-                    <a class="page-scroll" href="">About</a>
+                    <a class="page-scroll" href="{{url('/about')}}">About</a>
                   </li>
 
                 </ul>

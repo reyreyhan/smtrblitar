@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Blog;
+use App\Saran;
 
 class AdminController extends Controller
 {
@@ -81,4 +82,15 @@ class AdminController extends Controller
         $data->save();
         return redirect('/admin');
     }
+
+    public function about() {
+        $data = Saran::get();
+        return view('backend.about',compact('data'));
+    }
+
+    public function DetailAbout($id) {
+        $data = Saran::where('id',$id)->first();
+        return view('backend.aboutdetail',compact('data'));
+    }
+
 }

@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Login;
 use App\Blog;
+use App\Saran;
 
 class HomeController extends Controller
 {
@@ -102,6 +103,19 @@ class HomeController extends Controller
 
     public function itbx4() {
         return view('itbx4');
+    }
+
+    public function about() {
+        return view('about');
+    }
+
+    public function AboutStore(Request $r) {
+        $data = new Saran();
+        $data->nama = $r->nama;
+        $data->email = $r->email;
+        $data->saran = $r->saran;
+        $data->save();
+        return redirect()->back();
     }
 
 }

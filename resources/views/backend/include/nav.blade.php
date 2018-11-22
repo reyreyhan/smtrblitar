@@ -14,6 +14,13 @@
           </a>
         </li>
 
+        <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Tables">
+          <a class="nav-link" href="{{url('admin')}}/about">
+            <i class="fa fa-fw fa-table"></i>
+            <span class="nav-link-text">Saran</span>
+          </a>
+        </li>
+
       </ul>
       <ul class="navbar-nav ml-auto">
         <li class="nav-item">

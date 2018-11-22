@@ -48,7 +48,13 @@ Route::post('/admin/post', 'AdminController@store')->middleware('CheckSession');
 Route::get('/admin/delete/{id}', 'AdminController@delete')->middleware('CheckSession');
 Route::get('/admin/edit/{id}', 'AdminController@edit')->middleware('CheckSession');
 Route::post('/admin/update/{id}','AdminController@update')->middleware('CheckSession');
+Route::get('/admin/about','AdminController@about')->middleware('CheckSession');
+Route::get('/admin/about/{id}','AdminController@DetailAbout')->middleware('CheckSession');
 
 Route::get('/zona','DropdownAjaxController@index');
 Route::post('/zona','DropdownAjaxController@hasil');
 Route::get('/zona/{id}','DropdownAjaxController@subzona');
+
+
+Route::get('/about','HomeController@about');
+Route::post('/about','HomeController@AboutStore');
