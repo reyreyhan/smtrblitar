@@ -18,40 +18,12 @@
     }
   </style>
 
-  <div id="myModal" class="modal fade modal-wide" role="dialog">
-    <div class="modal-dialog">
-      <!-- Modal content-->
-      <div class="modal-content">
-        <div class="modal-header">
-          <button type="button" class="close" data-dismiss="modal">&times;</button>
-          <h4 class="modal-title">Visualisasi Simtaru Blitar</h4>
-        </div>
-        <div class="modal-body">
-          <div class="embed-responsive embed-responsive-16by9">
-            <!--<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/dXGBDwdokIQ?autoplay=1" allowfullscreen></iframe>-->
-            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/1_buc5YfKQo" allowfullscreen></iframe>
-          </div>
-        </div>
-        <div class="modal-footer">
-          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-        </div>
-      </div>
-
-    </div>
-  </div>
-
   <!-- Start Slider Area -->
   <div id="" class="slider-area">
     <div class="bend niceties preview-2">
-      <div id="ensign-nivoslider" class="slides">
-        <img src="{{ url('assets')}}/img/slider/slide1.PNG" alt="" title="#slider-direction-1" />
-        <img src="{{ url('assets')}}/img/slider/slide2.PNG" alt="" title="#slider-direction-2" />
-        <img src="{{ url('assets')}}/img/slider/slide3.PNG" alt="" title="#slider-direction-3" />
-        <img src="{{ url('assets')}}/img/slider/slide4.PNG" alt="" title="#slider-direction-4" />
-        <img src="{{ url('assets')}}/img/slider/slide5.PNG" alt="" title="#slider-direction-5" />
-        <img src="{{ url('assets')}}/img/slider/slide6.PNG" alt="" title="#slider-direction-6" />
-        <img src="{{ url('assets')}}/img/slider/slide7.PNG" alt="" title="#slider-direction-7" />
-      </div>
+      <video autoplay loop id="myVideo">
+        <source src="{{url('video/Visualisasi RDTR Kota Blitar.mp4')}}" type="video/mp4">
+      </video>
     </div>
   </div>
   <!-- End Slider Area -->
@@ -180,11 +152,7 @@
 
   @include('include.foot')
 
-  <script type="text/javascript">
-    $(document).ready(function(){
-      $("#myModal").modal('show');
-    });
-  </script>
+
 
 </body>
 
