@@ -20,7 +20,7 @@
 
   <!-- Start Slider Area -->
   <div id="" class="slider-area">
-    <div class="bend niceties preview-2">
+    <div class="embed-responsive embed-responsive-16by9 bend niceties preview-2">
       <video autoplay loop id="myVideo">
         <source src="{{url('video/Visualisasi RDTR Kota Blitar.mp4')}}" type="video/mp4">
       </video>
